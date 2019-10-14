@@ -7,6 +7,14 @@
     android:orientation="vertical"
     android:gravity="center"
     tools:context=".SplashScreen">
+    
+    
+     <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:textSize="20dp"       
+        android:text="Dzikir dan Doa Harian"/>
 
 
     <ProgressBar
